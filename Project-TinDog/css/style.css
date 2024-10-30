@@ -8,9 +8,11 @@
   0% {
     background-position: 0% 50%;
   }
+
   50% {
     background-position: 100% 50%;
   }
+
   100% {
     background-position: 0% 50%;
   }
@@ -25,4 +27,12 @@
 .profile-img {
   height: 100px;
   border-radius: 50%;
+}
+
+.portfolio-link {
+  transition: font-size 0.7s;
+}
+
+.portfolio-link:hover {
+  font-size: 1.5rem;
 }
