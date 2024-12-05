@@ -1,0 +1,7 @@
+body {
+    background-color: hsl(195, 3%, 71%, 0.4);
+    background-color: red;
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
